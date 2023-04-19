@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WayPoints
+  - MoneyLocation
+  - MoneyParent
+  - DropArea
+  - Money
+  - BuyLocation
+  - Thief
+  - Attackable
+  - Police
+  - PoliceSpawnPoints
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PoliceBullet
+  - Gate
+  - ATM
+  - Money
+  - BuyArea
+  - Pistol
+  - Police
+  - PlayerBullet
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
